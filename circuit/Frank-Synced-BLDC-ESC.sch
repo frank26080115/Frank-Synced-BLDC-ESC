@@ -236,7 +236,9 @@
 <smd name="2" x="0" y="0" dx="7.62" dy="7.62" layer="1" roundness="100"/>
 </package>
 <package name="1X1-MOTOR">
-<pad name="P$1" x="0" y="0" drill="3" diameter="4.826" shape="square"/>
+<hole x="0" y="0" drill="3"/>
+<smd name="P$1" x="0" y="0" dx="4.826" dy="3.3782" layer="1"/>
+<smd name="P$2" x="0" y="0" dx="4.826" dy="3.3782" layer="16"/>
 </package>
 <package name="SOT23-3">
 <wire x1="1.4224" y1="0.6604" x2="1.4224" y2="-0.6604" width="0.1524" layer="51"/>
