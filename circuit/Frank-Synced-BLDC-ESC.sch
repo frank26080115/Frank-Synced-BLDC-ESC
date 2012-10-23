@@ -237,8 +237,8 @@
 </package>
 <package name="1X1-MOTOR">
 <hole x="0" y="0" drill="3"/>
-<smd name="P$1" x="0" y="0" dx="4.826" dy="3.3782" layer="1"/>
-<smd name="P$2" x="0" y="0" dx="4.826" dy="3.3782" layer="16"/>
+<smd name="P$1" x="0" y="0" dx="4.826" dy="3.3782" layer="1" cream="no"/>
+<smd name="P$2" x="0" y="0" dx="4.826" dy="3.3782" layer="16" cream="no"/>
 </package>
 <package name="SOT23-3">
 <wire x1="1.4224" y1="0.6604" x2="1.4224" y2="-0.6604" width="0.1524" layer="51"/>
